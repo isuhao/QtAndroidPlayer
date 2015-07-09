@@ -14,4 +14,5 @@
 7：视频绘制用了性能不太好的 在QWidget上用QPainter绘制，可提取代码 绘制用opengl 绘制。 音频用的是QAudioOutput ，也可用其他高性能的播放库。
 
 8：MediaImpl::open()为播放地址，  安卓播放网络流如“rtmp://ftv.sun0769.com/dgrtv1/mp4:b1” 播放本地存储如：“/sdcard/cuc_ieschool.flv”
+
 659998323@qq.com
