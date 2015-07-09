@@ -1,6 +1,6 @@
 #QtAndroidPlayer
 1；需要安装windows平台下的qt for Android 版本（最好5.2版本以上），并下载Google SDK 和NDK(android-ndk-r10d),
-	还有 apache-ant(我用的1.8.4版本) ,具体环境部署可参照 http://blog.csdn.net/foruok/article/details/17305697等
+	还有 apache-ant(我用的1.8.4版本) ,具体环境部署可参照 http://blog.csdn.net/foruok/article/details/17305697 等
 2：用QtCreator 打开MediaPlayer.pro
 
 3；工程类型选择 选择" Android for armeabi-v7a..." 然后构建 工程 编译结束后目录下 会有MediaPlayer.apk 安装即可运行
