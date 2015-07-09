@@ -1,0 +1,39 @@
+﻿QPushButton
+{
+        min-width:160px;
+        min-height:32px;
+        border-image: url(:/img/img/btn.png) 0 142 0 0;
+}
+
+QPushButton:hover
+{
+        border-image: url(:/img/img/btn.png) 0 71 0 71;
+}
+
+QPushButton:pressed
+{
+        border-image: url(:/img/img/btn.png) 0 0 0 142;
+}
+
+QTextEdit:disabled, QTextEdit:focus:disabled, QLineEdit:disabled, QLineEdit:focus:disabled
+{
+        border-width:5px 5px 5px 5px;
+        border-image:url(:/img/img/style_1_disable.png) 5 5 5 5;
+}
+
+QTextEdit:hover, QTextEdit:focus:hover, QLineEdit:hover, QLineEdit:focus:hover
+{
+        border-width:5px 5px 5px 5px;
+        border-image:url(:/img/img/style_1_hover.png) 5 5 5 5;
+}
+
+QTextEdit, QLineEdit
+{
+        border-width:5px 5px 5px 5px;
+        border-image:url(:/img/img/style_1_normal.png) 5 5 5 5;
+}
+
+QMainWindow
+{
+        border-image: url(:/img/img/FirstRecharge.png) 2 2 2 2;
+}

@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>img/AuthorsizeEnterBtn.png</file>
+        <file>img/btn.png</file>
+        <file>img/FirstRecharge.png</file>
+        <file>img/style_1_disable.png</file>
+        <file>img/style_1_hover.png</file>
+        <file>img/style_1_normal.png</file>
+    </qresource>
+    <qresource prefix="/qss">
+        <file>qss/style.qss</file>
+    </qresource>
+</RCC>
